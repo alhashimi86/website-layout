@@ -4,8 +4,21 @@
   box-sizing: border-box;
 }
 
-header {
-  background-color: blue;
+nav {
+  background-color: #039be5;
+  display: flex;
+}
+
+nav ul {
+  display: inline;
+}
+
+ul li {
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+  margin: 2 rem;
 }
 
 main {

@@ -37,15 +37,16 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #9ff389;
+  background-color: #f9f871;
   height: 50vh;
 }
-
+/*grid  */
 section {
-  background-color: darkgray;
+  background-color: #9ff389;
+  height: 20vh;
 }
 
 footer {
-  background-color: black;
-  color: white;
+  background-color: #00d1d6;
+  height: 5vh;
 }

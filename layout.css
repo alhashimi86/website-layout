@@ -33,8 +33,12 @@ a {
   margin-left: auto;
 }
 /* main */
-main {
-  background-color: cornflowerblue;
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #9ff389;
+  height: 50vh;
 }
 
 section {
